@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Subhadeep Bhattacharya</title>
     <link>https://sb17v.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Subhadeep Bhattacharya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sb17v.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -36,8 +35,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://sb17v.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Hi, I am a second year PhD student in the Department of Computer Science at Florida State University and currently working as a Research Assistant in Computer Architecture and SysTems Research Laboratory (CASTL) under Dr. Weikuan Yu.
+I have received B.Tech in Information Technology from St.Thomas&amp;rsquo; College of Engineering and Technology, Kolkata, India in 2015. After completing the bachelor&amp;rsquo;s degree program, I have worked as a Java and NodeJS developer at Infosys Limited and has an experience of almost two years in designing and developing the different layers (mostly microservices and application layer) of web applications using latest technologies and trends in software engineering.</description>
     </item>
     
     <item>
