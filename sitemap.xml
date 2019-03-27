@@ -4,6 +4,46 @@
     
     <url>
     
+      <loc>https://sb17v.github.io/project/deep-learning/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/project/spark/</loc>
+      <lastmod>2019-03-27T17:37:11-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/project/shmemcache/</loc>
+      <lastmod>2019-03-27T17:36:30-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/project/openshmem/</loc>
+      <lastmod>2019-03-27T17:36:23-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/publication/openshmem-x/</loc>
+      <lastmod>2018-08-21T11:30:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sb17v.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -28,7 +68,116 @@
     
     <url>
     
+      <loc>https://sb17v.github.io/categories/big-data/</loc>
+      <lastmod>2019-03-27T17:37:11-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sb17v.github.io/categories/</loc>
+      <lastmod>2019-03-27T17:37:11-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/craype-dl/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/distributed-deep-learning/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/categories/distributed-deep-learning/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/horovod/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/kv-store/</loc>
+      <lastmod>2019-03-27T17:36:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/categories/key-value-store/</loc>
+      <lastmod>2019-03-27T17:36:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/ofi-libfabric/</loc>
+      <lastmod>2019-03-27T17:36:23-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/openshmem/</loc>
+      <lastmod>2019-03-27T17:36:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/openshmem-x/</loc>
+      <lastmod>2019-03-27T17:36:23-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/categories/parallel-programming-model/</loc>
+      <lastmod>2019-03-27T17:36:23-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/project/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -37,6 +186,15 @@
     <url>
     
       <loc>https://sb17v.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/spark/</loc>
+      <lastmod>2019-03-27T17:37:11-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,6 +212,16 @@
     <url>
     
       <loc>https://sb17v.github.io/tags/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sb17v.github.io/tags/tensorflow/</loc>
+      <lastmod>2019-03-27T17:37:30-04:00</lastmod>
       <priority>0</priority>
     </url>
     

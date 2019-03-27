@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KV Store on Subhadeep Bhattacharya</title>
+    <link>https://sb17v.github.io/tags/kv-store/</link>
+    <description>Recent content in KV Store on Subhadeep Bhattacharya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 17:36:30 -0400</lastBuildDate>
+    
+	<atom:link href="https://sb17v.github.io/tags/kv-store/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SHMEMCache on Hybrid Memory Architecture</title>
+      <link>https://sb17v.github.io/project/shmemcache/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/project/shmemcache/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

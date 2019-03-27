@@ -6,9 +6,91 @@
     <description>Recent content in Tags on Subhadeep Bhattacharya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 17:37:30 -0400</lastBuildDate>
     
 	<atom:link href="https://sb17v.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CrayPE DL</title>
+      <link>https://sb17v.github.io/tags/craype-dl/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/craype-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Deep Learning</title>
+      <link>https://sb17v.github.io/tags/distributed-deep-learning/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/distributed-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horovod</title>
+      <link>https://sb17v.github.io/tags/horovod/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/horovod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KV Store</title>
+      <link>https://sb17v.github.io/tags/kv-store/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/kv-store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OFI Libfabric</title>
+      <link>https://sb17v.github.io/tags/ofi-libfabric/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:23 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/ofi-libfabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSHMEM</title>
+      <link>https://sb17v.github.io/tags/openshmem/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/openshmem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSHMEM-X</title>
+      <link>https://sb17v.github.io/tags/openshmem-x/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:23 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/openshmem-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>https://sb17v.github.io/tags/spark/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:11 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>https://sb17v.github.io/tags/tensorflow/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

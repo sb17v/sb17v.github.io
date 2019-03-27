@@ -6,9 +6,46 @@
     <description>Recent content in Categories on Subhadeep Bhattacharya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 17:37:11 -0400</lastBuildDate>
     
 	<atom:link href="https://sb17v.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://sb17v.github.io/categories/big-data/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:11 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/categories/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Deep Learning</title>
+      <link>https://sb17v.github.io/categories/distributed-deep-learning/</link>
+      <pubDate>Wed, 27 Mar 2019 17:37:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/categories/distributed-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key-Value Store</title>
+      <link>https://sb17v.github.io/categories/key-value-store/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:30 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/categories/key-value-store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming Model</title>
+      <link>https://sb17v.github.io/categories/parallel-programming-model/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:23 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/categories/parallel-programming-model/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
