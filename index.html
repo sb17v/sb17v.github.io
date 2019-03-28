@@ -33,7 +33,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#4caf50">
   
 
   
@@ -60,6 +60,8 @@
       
     
 
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
     
 
     
@@ -202,6 +204,25 @@
           <a class="nav-link" href="/#projects" data-target="#projects">
             
             <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/resume_subhadeep.pdf" data-target="files/resume_subhadeep.pdf">
+            
+            <span>Resume</span>
             
           </a>
         </li>
@@ -702,67 +723,152 @@ After completing the bachelor&rsquo;s degree program, I have worked as a Java an
 
     
     
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+            
+            
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+            
+            
+                
+              
+              <a href="#" data-filter=".openshmem" class="btn btn-primary btn-lg">SHMEM</a>
+            
+            
+            
+                
+              
+              <a href="#" data-filter=".distributed-deep-learning" class="btn btn-primary btn-lg">Distributed Deep Learning</a>
+            
+            
+            
+                
+              
+              <a href="#" data-filter=".spark" class="btn btn-primary btn-lg">Spark</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
     
 
     
 
-    <div class="row isotope projects-container js-layout-row">
-        
-        <div class="col-lg-12 project-item isotope-item distributed-deep-learning tensorflow horovod craype-dl" itemscope itemtype="http://schema.org/CreativeWork">
-          <i class="far fa-copy pub-icon" aria-hidden="true"></i>
+    <div class="row isotope projects-container js-layout-masonry">
 
-          <span class="project-title">
-          
-            
-          
-          Reducing Communication Bottleneck in Distributed Deep Learning Framework
-          
-          </span>
-          
-        </div>
+      
         
-        <div class="col-lg-12 project-item isotope-item spark" itemscope itemtype="http://schema.org/CreativeWork">
-          <i class="far fa-copy pub-icon" aria-hidden="true"></i>
+        
+        
+        
+        
+      <div class="col-12 col-md-6 col-lg-4 project-item isotope-item distributed-deep-learning tensorflow horovod craype-dl">
+        <div class="card">
+          
+          <div class="card-text">
+            <h4><a href="/project/deep-learning/" >Reducing Communication Bottleneck in Distributed Deep Learning Framework</a></h4>
+            <div class="card-desription">
+              <p>I am currently working on optimizing the communication bottleneck for Distributed Deep Learning Framework</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+        
+        
+        
+        
+        
+      <div class="col-12 col-md-6 col-lg-4 project-item isotope-item spark">
+        <div class="card">
+          
+          <div class="card-text">
+            <h4><a href="/project/spark/" >Spark</a></h4>
+            <div class="card-desription">
+              <p>I have studied different shuffling mechanisms present in Spark and implemented a custom logger for collecting different parameters related to shuffling phase to understand their characteristics</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+        
+        
+        
+        
+        
+      <div class="col-12 col-md-6 col-lg-4 project-item isotope-item openshmem kv-store">
+        <div class="card">
+          
+          <div class="card-text">
+            <h4><a href="/project/shmemcache/" >SHMEMCache on Hybrid Memory Architecture</a></h4>
+            <div class="card-desription">
+              <p>I have worked on a project with Oak Ridge National Laboratory to enable Hybrid Memory Scheme for SHMEMCache: A High-­Performance Key-­Value Store on OpenSHMEMand MPI</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+        
+        
+        
+        
+        
+      <div class="col-12 col-md-6 col-lg-4 project-item isotope-item openshmem ofi-libfabric">
+        <div class="card">
+          
+          <div class="card-text">
+            <h4><a href="/project/openshmem/" >OpenSHMEM-X Libfabric Conduit Implementation</a></h4>
+            <div class="card-desription">
+              <p>I have worked on a project with Oak Ridge National Laboratory for implementing a communication conduit for OpenSHMEM-X using OFI Libfabric and also improved its portability and performance</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
 
-          <span class="project-title">
-          
-            
-          
-          Spark
-          
-          </span>
-          
-        </div>
-        
-        <div class="col-lg-12 project-item isotope-item openshmem kv-store" itemscope itemtype="http://schema.org/CreativeWork">
-          <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-          <span class="project-title">
-          
-            
-          
-          SHMEMCache on Hybrid Memory Architecture
-          
-          </span>
-          
-        </div>
-        
-        <div class="col-lg-12 project-item isotope-item openshmem-x ofi-libfabric" itemscope itemtype="http://schema.org/CreativeWork">
-          <i class="far fa-copy pub-icon" aria-hidden="true"></i>
-
-          <span class="project-title">
-          
-            
-          
-          OpenSHMEM-X Libfabric Conduit Implementation
-          
-          </span>
-          
-        </div>
-        
     </div>
 
     
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="search" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Search</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    <div id="search-box">
+      
+      <input name="q" id="search-query" placeholder="Search..." autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+      
+    </div>
+
+    <div id="search-hits">
+      
+    </div>
 
   </div>
 </div>
@@ -856,6 +962,16 @@ After completing the bachelor&rsquo;s degree program, I have worked as a Java an
     </ul>
 
     
+    <div class="d-none">
+      <input id="map-provider" value="3">
+      <input id="map-lat" value="30.445600">
+      <input id="map-lng" value="-84.299853">
+      <input id="map-dir" value="MCH 114, Carothers Hall, Florida State University, Florida, 32304, USA">
+      <input id="map-zoom" value="16">
+      <input id="map-api-key" value="pk.eyJ1Ijoic3ViaGFkZWVwaXQ5NCIsImEiOiJjanRydHh0bGgwM21rNGRud2k5bDNmN3Y2In0.LGSep-hNkctHNO5sq_J_5g">
+    </div>
+    <div id="map"></div>
+    
 
   </div>
 </div>
@@ -921,6 +1037,10 @@ After completing the bachelor&rsquo;s degree program, I have worked as a Java an
 
     
     
+    
+    
+    <script src="/js/mathjax-config.83b2a65cc1ca1f6c27c3f6943cbc37b88095532149bd65090e1ace0fafa090299c14cc980ebb55fed8a2b67507f355d0ff8f2e7beb5d5b7cd5903f53c74df423.js" integrity="sha512-g7KmXMHKH2wnw/aUPLw3uICVUyFJvWUJDhrOD6&#43;gkCmcFMyYDrtV/tiitnUH81XQ/48ue&#43;tdW3zVkD9Tx030Iw=="></script>
+    
 
     
     
@@ -939,12 +1059,16 @@ After completing the bachelor&rsquo;s degree program, I have worked as a Java an
 
       
       
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
     
 
     <script src="/js/hugo-academic.js"></script>
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     

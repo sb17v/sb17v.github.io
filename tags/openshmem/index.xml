@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>OpenSHMEM-X Libfabric Conduit Implementation</title>
+      <link>https://sb17v.github.io/project/openshmem/</link>
+      <pubDate>Wed, 27 Mar 2019 17:36:23 -0400</pubDate>
+      
+      <guid>https://sb17v.github.io/project/openshmem/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
